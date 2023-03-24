@@ -1,8 +1,8 @@
 # AI-Plugins
 
-🔥 A registry of plugins that ChatGPT or any GPT can use!
+🔥 A list of plugins that ChatGPT or any GPT can use! 🔥
 
-As described in the [ChatGPT docs](https://platform.openai.com/docs/plugins/getting-started), every plugin requires a ai-plugin.json file, which needs to be hosted on the API’s domain. For example, a company called example.com would make the plugin JSON file accessible via an https://example.com domain since that is where their API is hosted. GPT services like ChatGPT look for a file located at /.well-known/ai-plugin.json. Here is a registery so you can discover, compare and develop your own plugins
+As described in the [ChatGPT docs](https://platform.openai.com/docs/plugins/getting-started), every plugin requires a `ai-plugin.json` file, which needs to be hosted on the API’s domain. For example, a company called example.com would make the plugin JSON file accessible via an https://example.com domain since that is where their API is hosted. GPT services like ChatGPT look for a file located at /.well-known/ai-plugin.json. Here is a registery so you can discover, compare and develop your own plugins
 
 ## Plugins
 
