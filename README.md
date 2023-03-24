@@ -4,10 +4,10 @@
 
 As described in the [ChatGPT docs](https://platform.openai.com/docs/plugins/getting-started), every plugin requires a ai-plugin.json file, which needs to be hosted on the API’s domain. For example, a company called example.com would make the plugin JSON file accessible via an https://example.com domain since that is where their API is hosted. GPT services like ChatGPT look for a file located at /.well-known/ai-plugin.json. Here is a registery so you can discover, compare and develop your own plugins
 
-## Milestone Papers
+## Plugins
 
 |  Name     |  ChatGPT launch  |  Docs  |  Manifest  |  OpenAPI spec  |
-|-----------|--------|-------------|----------------|
+|-----------|------------------|--------|------------|----------------|
 | [Datasette](https://datasette.io/)      | no  | [Blogpost](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/) | [AI Plugin](https://datasette.io/.well-known/ai-plugin.json) | [YAML](https://datasette.io/-/chatgpt-openapi-schema.yml)  | 
 | [Expedia](https://www.expedia.com/)     | yes |   |   |   |
 | [FiscalNote](http://wolfram.com/)       | yes |   |   |   |
