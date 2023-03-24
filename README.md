@@ -6,7 +6,7 @@ As described in the [ChatGPT docs](https://platform.openai.com/docs/plugins/gett
 
 ## Milestone Papers
 
-|  Name     |  ChatGPT Official  |  Docs  |  AI Plugin  |  OpenAPI spec  |
+|  Name     |  ChatGPT launch  |  Docs  |  Manifest  |  OpenAPI spec  |
 |-----------|--------|-------------|----------------|
 | [Datasette](https://datasette.io/)      | no  | [Blogpost](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/) | [AI Plugin](https://datasette.io/.well-known/ai-plugin.json) | [YAML](https://datasette.io/-/chatgpt-openapi-schema.yml)  | 
 | [Expedia](https://www.expedia.com/)     | yes |   |   |   |
