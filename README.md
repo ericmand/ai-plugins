@@ -10,6 +10,7 @@ As described in the [ChatGPT docs](https://platform.openai.com/docs/plugins/gett
 |--------|--------|-------------|----------------|
 | Datasette | no | [Blogpost](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/)  |   [AI Plugin](https://datasette.io/.well-known/ai-plugin.json)         | [YAML](https://datasette.io/-/chatgpt-openapi-schema.yml)  | 
 | Klarna  | yes | | [AI Plugin](https://www.klarna.com/.well-known/ai-plugin.json) |  [JSON](https://www.klarna.com/us/shopping/public/openai/v0/api-docs/)
-| Slack | yes | [AI Plugin](https://slack.com/.well-known/ai-plugin.json) | [YAML](https://api.slack.com/specs/openapi/ai-plugin.yaml)
+| Slack | yes | [AI Plugin](https://slack.com/.well-known/ai-plugin.json) | [YAML](https://api.slack.com/specs/openapi/ai-plugin.yaml) | [YAML](https://api.speak.com/openapi.yaml)
+| Speak | yes | [AI Pllugin](https://api.speak.com/.well-known/ai-plugin.json) | 
 | Wolfram | yes |   [Blogpost](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) | [AI Plugin](https://www.wolframalpha.com/.well-known/ai-plugin.json) | [JSON](https://www.wolframalpha.com/.well-known/apispec.json) |
 | Zapier | yes |   | [AI Plugin](https://www.zapier.com/.well-known/ai-plugin.json) |  [JSON](https://nla.zapier.com/api/v1/dynamic/openapi.json)  |
