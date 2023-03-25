@@ -10,7 +10,7 @@ As described in the [ChatGPT docs](https://platform.openai.com/docs/plugins/gett
 |-----------|------------------|--------|------------|----------------|
 | [Datasette](https://datasette.io/)      | no  | [Blogpost](https://simonwillison.net/2023/Mar/24/datasette-chatgpt-plugin/) | [AI Plugin](https://datasette.io/.well-known/ai-plugin.json) | [YAML](https://datasette.io/-/chatgpt-openapi-schema.yml)  | 
 | [Expedia](https://www.expedia.com/)     | yes |   |   |   |
-| [FiscalNote](http://wolfram.com/)       | yes |   |   |   |
+| [FiscalNote](http://fiscalenote.com/)       | yes |   |   |   |
 | [Instacart](https://www.instacart.com/) | yes |   |   |   |
 | [Kayak](https://www.kayak.com/)         | yes |   |   |   |
 | [Klarna](https://www.klarna.com/)       | yes |   | [AI Plugin](https://www.klarna.com/.well-known/ai-plugin.json) | [JSON](https://www.klarna.com/us/shopping/public/openai/v0/api-docs/) |
