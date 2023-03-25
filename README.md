@@ -20,4 +20,4 @@ As described in the [ChatGPT docs](https://platform.openai.com/docs/plugins/gett
 | [Slack](https://slack.com/)             | yes |   | [AI Plugin](https://slack.com/.well-known/ai-plugin.json) | [YAML](https://api.slack.com/specs/openapi/ai-plugin.yaml) | 
 | [Speak](https://www.speak.com/)         | yes |   | [AI Pllugin](https://api.speak.com/.well-known/ai-plugin.json) | [YAML](https://api.speak.com/openapi.yaml) |
 | [Wolfram](http://wolfram.com/)          | yes | [Blogpost](https://writings.stephenwolfram.com/2023/03/chatgpt-gets-its-wolfram-superpowers/) | [AI Plugin](https://www.wolframalpha.com/.well-known/ai-plugin.json) | [JSON](https://www.wolframalpha.com/.well-known/apispec.json) |
-| [Zapier](https://www.speak.com/)        | yes |   | [AI Plugin](https://www.zapier.com/.well-known/ai-plugin.json) | [JSON](https://nla.zapier.com/api/v1/dynamic/openapi.json)  |
+| [Zapier](https://www.zapier.com/)        | yes |   | [AI Plugin](https://www.zapier.com/.well-known/ai-plugin.json) | [JSON](https://nla.zapier.com/api/v1/dynamic/openapi.json)  |
