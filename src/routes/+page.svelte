@@ -82,7 +82,11 @@
   ];
 </script>
  
-<h1>AI-Plugins</h1>
+<div class="hero">
+  <h1>AI-Plugins</h1>
+  <a href="http://github.com/ericmand/ai-plugins">Contribute and view source</a>
+  <p></p>
+</div>
 {#each integrations as integration}
   <div class="card">
     <img src={integration.logo_url} alt="Logo" class="logo">
@@ -101,9 +105,12 @@
 
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Russo+One&family=Silkscreen:wght@400;700&display=swap');
-  h1{
+  .hero{
     text-align: center;
     font-family: 'Silkscreen', cursive;
+  }
+  h1{
+    
   }
   .card {
     font-family: 'Silkscreen', cursive;
