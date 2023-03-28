@@ -108,6 +108,11 @@
   {/each}
   
   <style>
+    @import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+    h1{
+      text-align: center;
+      font-family: 'Russo One', sans-serif;
+    }
     .card {
       border: 1px solid #ddd;
       padding: 20px;
